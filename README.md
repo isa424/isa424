@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+My name is **Isa Ishangulyyev** and I'm a software developer.
+
+Checkkout my portfolio (work in progress..):
 https://portfolio-isa424.vercel.app
 
 <!--
