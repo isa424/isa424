@@ -6,6 +6,10 @@ Checkkout my portfolio (work in progress...):
 
 <a href="https://portfolio-isa424.vercel.app" target="_blank">Portfolio</a>
 
+<a href="https://linkedin.com/in/isa-ishangulyyev" target="_blank">Linkedin</a>
+
+<a href="https://github.com/isa424" target="_blank">Github</a>
+
 <!--
 **isa424/isa424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
