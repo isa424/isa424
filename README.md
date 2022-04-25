@@ -2,8 +2,9 @@
 
 My name is **Isa Ishangulyyev** and I'm a software developer.
 
-Checkkout my portfolio (work in progress..):
-https://portfolio-isa424.vercel.app
+Checkkout my portfolio (work in progress...):
+
+<a href="https://portfolio-isa424.vercel.app" target="_blank">Portfolio</a>
 
 <!--
 **isa424/isa424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
